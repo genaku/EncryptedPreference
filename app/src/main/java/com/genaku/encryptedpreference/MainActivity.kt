@@ -1,4 +1,4 @@
-package ru.genaku.encryptedpreference
+package com.genaku.encryptedpreference
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

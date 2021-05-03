@@ -1,4 +1,4 @@
-package ru.genaku.encryptedpreference
+package com.genaku.encryptedpreference
 
 import android.content.SharedPreferences
 import java.math.BigDecimal
